@@ -1,0 +1,40 @@
+.home-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.instructions {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 600px;
+  margin-left: 45px;
+}
+.heading {
+  color: #263868;
+  font-size: 30px;
+  font-size: 600;
+}
+.list {
+  color: #263868;
+  font-size: 18px;
+  font-size: 900;
+}
+.home-img {
+  width: 550px;
+}
+.ol-container {
+  margin-bottom: 30px;
+}
+.start-btn {
+  color: #fff;
+  border: none;
+  background-color: #263868;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 4px;
+}

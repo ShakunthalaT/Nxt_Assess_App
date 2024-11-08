@@ -1,0 +1,23 @@
+.nav-container {
+  background-color: #263868;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  max-width: 1110px;
+}
+.logout-btn {
+  border: 1px solid #fff;
+  color: #fff;
+  background-color: transparent;
+  border-radius: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
